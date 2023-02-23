@@ -4,5 +4,6 @@ public class Class01 {
 
         System.out.println("1.calışmam");
         System.out.println("v5");
+        System.out.println("hava guzel");
     }
 }
